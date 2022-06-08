@@ -1,0 +1,16 @@
+{
+  "name": "sensei-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^7.1.0",
+    "@l2-technology/sensei-client": "^0.1.15"
+  }
+}
